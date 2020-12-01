@@ -164,19 +164,7 @@
 	  "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/70.png",
     "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/71.png",
       "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/72.png",
-      "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/73.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/74.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/75.png",
-
-
-    "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/76.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/77.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/78.png"
-       
+      "https://raw.githubusercontent.com/Parth777-andro/wedding/main/Pic/l/73.png"
     
     ]
 }
